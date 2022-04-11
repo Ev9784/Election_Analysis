@@ -2,7 +2,6 @@
 Our team assists Rom, and Seth submits the election audit results to the election commission. However, they have reached out to us to retrieve additional data to complete their audit. Their firm's initial project was to know how many voters each county had and their respected percentages. Their team wanted to also see the voter outcomes for the winners of the election and the voter information related to that candidate. With the new expansion of their project, their ream requests a deep dive into total votes by the number of counties showcased in the data set for the most significant outcome. 
 
 ## *Overview of Election Audit* 
-Total Votes congressional:
 
 ## Election Results
 ```
