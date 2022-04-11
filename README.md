@@ -8,20 +8,20 @@ Total Votes congressional:
 ```
  Total Votes: 369,711
 ```
-## Percentage of total votes for each county in the precinct:
+## Percentage of Total Votes for Each County in The Precinct:
 County Votes:  
 ```
 Jefferson: 10.5% (38,855)
 Denver: 82.8% (306,055)
 Arapahoe: 6.7% (24,801)
 ```
-## Candidate Percentage of the Largest number of Votes:
+## Candidate Percentage of the Largest Number of Votes:
 ```
 Charles Casper Stockham: 23.0% (85,213)
 Diana DeGette: 73.8% (272,892)
 Raymon Anthony Doane: 3.1% (11,606)
 ```
-## The winning candidate, vote count, and final percentage:
+## The Winning Candidate, Vote Count and Final Percentage:
 ```
 Winner: Diana DeGette
 Winning Vote Count: 272,892
